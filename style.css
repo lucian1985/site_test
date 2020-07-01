@@ -1,0 +1,17 @@
+BODY {
+	scrollbar-face-color:#94E321;
+	scrollbar-highlight-color:#FFFFFF;
+	scrollbar-shadow-color:#000000;
+	scrollbar-3dlight-color:#000000;
+	scrollbar-arrow-color:#FFFFFF;
+	scrollbar-track-color: #F5F5F5;
+	scrollbar-darkshadow-color:#F9F9F9;
+	cursor: url(kivi-x.cur), default;
+}
+
+
+
+body{scrollbar-base-color:#F5F4F7; scrollbar-arrow-color:#000000}
+a{color:#339A0C; text-decoration:none}
+a:hover{color:#93E220; text-decoration:u}
+ul{list-style-type:square; margin-left:18px; margin-top:0; margin-bottom:0;}
